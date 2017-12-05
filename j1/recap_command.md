@@ -104,7 +104,7 @@ tar tvf archive.tar.bz2
 *Executer 2 commandes sur une ligne*
 `echo "Commande 1" ; echo "Commande 2"`
 
-*Executer une 2eme commande si la première est valide
+*Executer une 2eme commande si la première est valide*
 `echo "Commande 1" && echo Commande 2`
 
 *Recuperer le code retour d'une erreur*
@@ -145,7 +145,7 @@ echo $? (Code retour : 0 ok, 1 nok)
 `cat file |  wc -l`
 
 ---
-*Afficher les disques et partitions
+*Afficher les disques et partitions*
 `lsblk`
 
 *Lister les disques*
@@ -157,7 +157,7 @@ echo $? (Code retour : 0 ok, 1 nok)
 *Lister les routes*
 `route -n` ou `ip route` ou `ip r`
 
-*Lister les périphériques usb`
+*Lister les périphériques usb*
 `lsusb`
 
 *Lister les périphériques pci*
