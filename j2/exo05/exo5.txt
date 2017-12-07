@@ -2,7 +2,7 @@
 # Exo05 : Objectif : Récupération d'argument par entrée clavier et bouclage de script
 # Note : 1 sur 20
 # Difficulté : Facile
-# Nom du script par étudiant : nom.prenom.exo03.sh
+# Nom du script par étudiant : nom.prenom.exo05.sh
 
 # Condition / boucle
 if [ statement ]; then

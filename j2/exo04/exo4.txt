@@ -2,7 +2,7 @@
 # Exo04 : Objectif : Récupération d'argument par entrée clavier et changement de permissions
 # Note : 1 sur 20
 # Difficulté : Facile
-# Nom du script par étudiant : nom.prenom.exo03.sh
+# Nom du script par étudiant : nom.prenom.exo04.sh
 
 
 # Listes des commandes utiles

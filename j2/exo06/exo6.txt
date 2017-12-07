@@ -2,7 +2,7 @@
 # Exo06 : Objectif : Création du menu + création multiple
 # Note : 1 sur 20
 # Difficulté : Moyen
-# Nom du script par étudiant : nom.prenom.exo03.sh
+# Nom du script par étudiant : nom.prenom.exo06.sh
 
 # Commande utile : 
 grep
