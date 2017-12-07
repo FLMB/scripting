@@ -15,6 +15,7 @@ echo
 pwd
 cd
 cp
+tree
 
 if [ statement ]; then
 	commande
@@ -33,7 +34,7 @@ Créer un script bash qui va effectuer ces actions :
 - Créer 1 répertoires A uniquement si le répertoire n'existe pas
 - Dans le repertoire A créer 5 fichiers de {01 à 05} si le fichier n'existe pas
 - Copier les 5 fichiers dans le repertoire  B
-- Lister les répertoires du dossier courant uniquement
+- Lister les répertoires récursif sans utiliser ls
 - Insérer un contenu : 'Ce fichier est le 01' dans le fichiers B/01
 - Afficher le contenu du fichier B/01
 - Ajouter une ligne supplémentaire au fichier B/01
