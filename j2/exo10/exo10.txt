@@ -32,5 +32,4 @@ Créer un script bash qui va effectuer ces actions :
 - Afficher une phrase pour chaque utilisateur standard avec les informations suivante : 
 	- L'utilisateur : X, a pour uid : Y, a pour home : Z, et pour shell : Z'
 - Afficher la 17ème ligne du script 
-- Afficher l'avant dernière ligne du script
 - Terminer le script avec un code 0 
