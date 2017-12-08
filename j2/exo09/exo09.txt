@@ -1,5 +1,5 @@
 # Florian Leparoux
-# Exo09 : Objectif : Fonction d'aides
+# Exo09 : Objectif : Parsage de fichier 
 # Note : 1 sur 20
 # Difficulté : Moyen
 # Nom du script par étudiant : nom.prenom.exo09.sh
