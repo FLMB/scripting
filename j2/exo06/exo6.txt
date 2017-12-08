@@ -1,5 +1,5 @@
 # Florian Leparoux
-# Exo06 : Objectif : Création du menu + création multiple
+# Exo06 : Objectif : Création du menu + Répétition
 # Note : 1 sur 20
 # Difficulté : Moyen
 # Nom du script par étudiant : nom.prenom.exo06.sh
