@@ -1,5 +1,5 @@
 # Florian Leparoux
-# Exo08 : Objectif : Fonction d'aides
+# Exo08 : Objectif : Plus ou moins
 # Note : 1 sur 20
 # Difficulté : Moyen
 # Nom du script par étudiant : nom.prenom.exo08.sh
@@ -18,6 +18,8 @@ name
 
 # Objectif
 Créer un script bash qui va effectuer ces actions :
+- Vérifier et stocker les chemin absolu des commandes dans une variables
+Exemple : $cmd_mkdir renverra : /usr/bin/mkdir
 - Créer un répertoire comportant le nom du script dans ./tmp/
 - Déplacer vous dans ce répertoire
 - Créer un mécanisme de verrouillage du script utilisant le PID du script
