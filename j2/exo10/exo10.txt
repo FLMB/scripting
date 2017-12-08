@@ -20,7 +20,7 @@ Redirection des  erreurs : blblab 2> erreurs.log
 
 # Objectif
 
-Toutes les actions du script seront loggué dans fichier : suivi.exo09.log
+Toutes les actions du script seront loggué dans fichier : suivi.exo10.log
 Après chaque affichages on appliquera un pause de 3s et on réinitialisera le prompt (clear)
 
 Créer un script bash qui va effectuer ces actions :
