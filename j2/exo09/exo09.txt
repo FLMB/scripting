@@ -19,7 +19,6 @@ awk
 # Objectif
 
 Toutes les actions du script seront loggué dans fichier : suivi.exo09.sh
-Après chaque affichages on appliquera un pause de 5s et on réinitialisera le prompt (clear)
 
 Créer un script bash qui va effectuer ces actions :
 - Créer un répertoire comportant le nom du script dans ./tmp/
