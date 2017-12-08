@@ -8,6 +8,11 @@
 function name() {
 }
 
+env
+whoami
+which
+whereis
+
 # Execution
 name
 
@@ -16,15 +21,12 @@ Créer un script bash qui va effectuer ces actions :
 - Créer un répertoire comportant le nom du script dans ./tmp/
 - Déplacer vous dans ce répertoire
 - Créer un mécanisme de verrouillage du script utilisant le PID du script
-	- Stocker dans le répertoire .lock
+	- Stocker dans le fichier .lock
 
-- Créer un menu qui va proposer 5 fonctions
-- Générer ces 5 fonctions
-- Un fonction va envoyer un message standard dans un fichier : file.log
-- Une fonction va envoyer une erreur généré dans un fichier : erreur.log
-- Une fonction va afficher un descriptif de ce script
-- Une fonction va quitter le script
-- Une fonction va vérifier la présence des deux fichiers de log et compter le nombre d'erreur 
-- On déverrouille le processus de verrouillage
-
+- Refaite le jeu du plus ou moins
+Les conditions suivantes devront être présente dans le script
+- Vérifier que l'utilisateur qui  lance le script n'est pas root
+- Le nombre à choisir sera aléatoire et compris entre 1 et 50
+- Un compteur sera mis en place pour laisser 10 tentatives au joueur
+- Un historique des valeursf sera  affiché à la fin
 - Terminer le script avec un code 0 
